@@ -1,0 +1,10 @@
+{
+  "id": "bongo.cat.typing",
+  "name": "Uramu BongoCat",
+  "main": "main.js",
+  "version": "1.0.1",
+  "author": "NelikNG",
+  "description": "Uramu XDXD",
+  "icon": "icon.png",
+  "license":"MIT"
+}
